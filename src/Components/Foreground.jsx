@@ -7,19 +7,19 @@ function Foreground() {
 
   const data = [
     {
-      desc: "naughty horea kk",
+      desc: "no puedes leer esto",
       filesize: "0.9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "green" },
     },
     {
-      desc: "naughty horea kk",
+      desc: "Believe in Yourself",
       filesize: "0.9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "blue" },
     },
     {
-      desc: "naughty horea kk",
+      desc: "You got this all",
       filesize: "0.9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "green" },
